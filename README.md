@@ -1,2 +1,3 @@
 # MachineLearning
-Machine learning projects
+
+A place to show machine learning projects I've done. 
